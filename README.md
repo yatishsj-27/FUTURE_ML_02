@@ -32,14 +32,14 @@ The goal is to identify customers likely to leave a service (churn) based on fea
 ## 🚀 Try the App Live
 
 🖥️ **Streamlit Dashboard**  
-🔗 [Live Demo](https://futureml02-6n7gwjmkst9xsnsnpbpmcq.streamlit.app/)  
+🔗 [Live Demo](https://futureml-02.streamlit.app/)  
 ⚠️ *Please upload the sample CSV file (`xgboost_churn_predictions.csv`) from this repo to test the app.*
 
 ---
 ### Visualizations
 
-![Accuracy](https://github.com/subhadipsinha722133/FUTURE_ML_02/blob/main/image.png)
-![Accuracy](https://github.com/subhadipsinha722133/FUTURE_ML_02/blob/main/output.png)
+![Accuracy](https://github.com/yatishsj-27/FUTURE_ML_02/blob/main/image.png)
+![Accuracy](https://github.com/yatishsj-27/FUTURE_ML_02/blob/main/output.png)
 
 ---
 
